@@ -1,29 +1,11 @@
-<<<<<<< HEAD
-Hello Wade!Hello Git! 1111111111
-Hello Wade!Hello Git! 2222222222
 Hello Wade!Hello Git!
 Hello Wade!Hello Git!
 Hello Wade!Hello Git!
 Hello Wade!Hello Git!
-Hello Wade!Hello Git! master branch test
 Hello Wade!Hello Git!
 Hello Wade!Hello Git!
 Hello Wade!Hello Git!
-=======
-hello wade ! hello git! 22222
-hello wade ! hello git! 33333
-hello wade ! hello git!
-hello wade ! hello git!
-hello wade ! hello git!
-hello wade ! hello git!
-hello wade ! hello git!
-hello wade ! hello git! 
-hello wade ! hello git!
-hello wade ! hello git! hot-fix test 
-hello wade ! hello git!
-hello wade ! hello git!
-hello wade ! hello git!
-hello wade ! hello git!
-hello wade ! hello git!
+Hello Wade!Hello Git!
+Hello Wade!Hello Git!
+Hello Wade!Hello Git! -----master branch test -----
 
->>>>>>> hot-fix
