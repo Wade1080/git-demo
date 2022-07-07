@@ -1,16 +1,11 @@
-hello wade ! hello git! 22222
-hello wade ! hello git! 33333
-hello wade ! hello git!
-hello wade ! hello git!
-hello wade ! hello git!
-hello wade ! hello git!
-hello wade ! hello git!
-hello wade ! hello git! 
-hello wade ! hello git!
-hello wade ! hello git! hot-fix test 
-hello wade ! hello git!
-hello wade ! hello git!
-hello wade ! hello git!
-hello wade ! hello git!
-hello wade ! hello git!
+Hello Wade!Hello Git!
+Hello Wade!Hello Git!
+Hello Wade!Hello Git!
+Hello Wade!Hello Git!
+Hello Wade!Hello Git!
+Hello Wade!Hello Git!
+Hello Wade!Hello Git!
+Hello Wade!Hello Git!
+Hello Wade!Hello Git!
+Hello Wade!Hello Git! -----hot_fix branch test -----
 
