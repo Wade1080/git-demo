@@ -4,7 +4,7 @@ Hello Wade!Hello Git!
 Hello Wade!Hello Git!
 Hello Wade!Hello Git!
 Hello Wade!Hello Git!
-Hello Wade!Hello Git!
+Hello Wade!Hello Git! master branch test
 Hello Wade!Hello Git!
 Hello Wade!Hello Git!
 Hello Wade!Hello Git!
