@@ -8,4 +8,5 @@ Hello Wade!Hello Git!
 Hello Wade!Hello Git!
 Hello Wade!Hello Git!
 Hello Wade!Hello Git! -----master branch test -----
+Hello Wade!Hello Git! -----hot_fix branch test -----
 
